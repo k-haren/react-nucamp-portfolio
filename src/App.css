@@ -34,3 +34,16 @@ nav a.nav-link {
   border-top: .0187rem solid var(--primary-purple);
 }
 
+
+/*** Header ***/
+
+
+/* About/ Bio page */
+
+.card-bio {
+  background-color: #cfbef0;
+}
+
+.card-pnb {
+  background-color: var(--primary-dark);
+}

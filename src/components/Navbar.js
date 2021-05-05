@@ -1,8 +1,9 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars } from "@fortawesome/free-solid-svg-icons"
+// import { Link } from "react-router-dom";
 
-//copied from bootstrap navbar
+
 const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-dark">
@@ -25,11 +26,13 @@ const Navbar = () => {
       <div className="collapse navbar-collapse" id="navbarSupportedContent">
         <ul className="navbar-nav ml-auto">
           <li className="nav-item active">
+            
             <a className="nav-link" href="#">
               Home <span className="sr-only">(current)</span>
             </a>
           </li>
           <li className="nav-item">
+          
             <a className="nav-link" href="#">
               About
             </a>
