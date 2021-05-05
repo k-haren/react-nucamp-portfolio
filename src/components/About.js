@@ -3,12 +3,13 @@ import Card from "react-bootstrap/Card";
 import CardGroup from "react-bootstrap/CardGroup";
 import CardColumns from "react-bootstrap/CardColumns";
 
+
 function About() {
   return (
     <div>
       <Card className="card-bio">
         <Card.Body>
-          <h1>Bio</h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+          <h1>PRODUCTIONS</h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit,
           sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
           enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
           ut aliquip ex ea commodo consequat. Duis aute irure dolor in

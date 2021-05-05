@@ -1,38 +1,38 @@
 :root {
   --primary-white: #fff;
   --primary-purple: #cfbef0;
-  --primary-dark: rgba(255,255,255, 0);
-  
+  --primary-dark: rgba(255, 255, 255, 0);
 }
 
-/* menu links */
-nav a.navbar-brand {
+/* menu links nav a.navbar-brand {
   width: 16.25rem;
-}
+} */
 
-nav a.nav-link {
- /* letter-spacing: 0.0037rem; */
+/* nav a.nav-link {
+  letter-spacing: 0.0037rem;
   cursor: pointer;
-}
+} */
 
-.navbar-nav > li > a {
+/* .navbar-nav > li > a {
   color: var(--primary-white) !important;
-  border-top: .0187rem solid var(--primary-dark); /* comment out, see the difference */
-}
+  border-top: 0.0187rem solid var(--primary-dark); 
+} */
 
-.navbar-brand {
+/* .navbar-brand {
   max-width: 17.25rem;
   padding: 0 !important ;
   height: 6rem !important;
-}
+} */
 
-.navbar-nav >li > a.active, .navbar-nav >li > a.active:focus {
-  border-top: .0187rem solid var(--primary-purple);
-}
+/* .navbar-nav > li > a.active,
+.navbar-nav > li > a.active:focus {
+  border-top: 0.0187rem solid var(--primary-purple);
+} */
 
-.navbar-nav >li > a:hover {
-  border-top: .0187rem solid var(--primary-purple);
+/* .navbar-nav > li > a:hover {
+  border-top: 0.0187rem solid var(--primary-purple);
 }
+*/ */
 
 
 /*** Header ***/
